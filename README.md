@@ -1,4 +1,4 @@
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm [Bhawana Singh] 👋
 
 ### 🚀 Computer Science Student | Web Developer | Competitive Programmer
 
@@ -8,10 +8,10 @@ I am a passionate Computer Science student dedicated to building impactful web a
 
 ## 🛠️ Tech Stack & Skills
 
-- **Languages:** C++, Python, JavaScript, HTML/CSS
-- **Web Development:** React, Node.js, Express, MongoDB (or your preferred stack)
-- **Data & Automation:** Web Scraping (BeautifulSoup, Pandas, NumPy), Data Analysis
-- **Tools & Platforms:** Git, GitHub, VS Code, Linux
+- **Languages:** C++, Python, JavaScript, HTML/CSS, NodeJs , RAG 
+- **Web Development:** React, Node.js, Express, MongoDB (MERN)
+- **Data & Automation:** Web Scraping (BeautifulSoup, Pandas, NumPy)
+- **Tools & Platforms:** Git, GitHub, VS Code
 
 ---
 
@@ -44,7 +44,7 @@ I enjoy tackling algorithmic puzzles and optimizing code for efficiency.
 ## 🤝 Connect with me
 
 - **LinkedIn:** [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
-- **Email:** your.email@example.com
+- **Email:** bhawanasingh8318@gmail.com
 - **Portfolio:** [yourportfolio.com](https://yourportfolio.com)
 
 ⚡ *Fun fact: I write code to solve problems, and then I write more code to fix the problems my code created.*
