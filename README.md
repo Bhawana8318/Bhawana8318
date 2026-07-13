@@ -1,50 +1,68 @@
-# Hi there, I'm [Bhawana Singh] 👋
+# Hi there, I'm Bhawana Singh 👋
 
-### 🚀 Computer Science Student | Web Developer | Competitive Programmer
+### Computer Science Student • Full-Stack Developer • Competitive Programmer
 
-I am a passionate Computer Science student dedicated to building impactful web applications and solving complex algorithmic challenges. I love exploring new technologies, turning data into insights, and continuously refining my problem-solving skills.
-
----
-
-## 🛠️ Tech Stack & Skills
-
-- **Languages:** C++, Python, JavaScript, HTML/CSS, NodeJs , RAG 
-- **Web Development:** React, Node.js, Express, MongoDB (MERN)
-- **Data & Automation:** Web Scraping (BeautifulSoup, Pandas, NumPy)
-- **Tools & Platforms:** Git, GitHub, VS Code
+I'm a ** B.Tech Computer Science student** passionate about building web applications, solving algorithmic problems, and exploring modern software technologies. I enjoy learning by building projects and continuously improving my problem-solving skills.
 
 ---
 
-## 🏆 Competitive Programming & DSA
+## 🚀 About Me
 
-I enjoy tackling algorithmic puzzles and optimizing code for efficiency.
-- **Codeforces:** [bhawana83](https://codeforces.com/profile/bhawana83) (Solved 250+ problems)
+- 💻 Building full-stack web applications with the MERN stack
+- 🌱 Currently learning AI-powered applications and modern web technologies
+- 🧩 Regularly solving Data Structures & Algorithms problems
+- 🎯 Always exploring new technologies and best practices
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages**
+
+`C++` `JavaScript` `Python` `HTML` `CSS`
+
+**Frameworks & Technologies**
+
+`React` `Node.js` `Express.js` `MongoDB` `RAG`
+
+**Tools**
+
+`Git` `GitHub` `VS Code`
+
+---
+
+## 🏆 Competitive Programming
+
+- **Codeforces:** [bhawana83](https://codeforces.com/profile/bhawana83)
 - **LeetCode:** [Bhawana83](https://leetcode.com/Bhawana83)
+- Passionate about improving problem-solving and algorithmic thinking.
 
 ---
 
-## 📁 Featured Projects
+## 📌 Featured Projects
 
-### 📚 [Book Store Analyst](Link-to-repo)
-- **Tech Stack:** Python, BeautifulSoup, Pandas
-- **Description:** A data science script that scrapes book data from e-commerce platforms, cleans the data, and performs price analysis to uncover market trends.
+### 📚 Book Store Analyst
+Python • BeautifulSoup • Pandas
+
+A data analysis project that collects, cleans, and analyzes book data to uncover pricing trends and useful insights.
 
 
 ---
 
-## 📈 GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Bhawana83&show_icons=true&theme=radial" alt="Your GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radial" alt="Top Langs" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Bhawana83&show_icons=true&theme=github_dark&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bhawana83&layout=compact&theme=github_dark&hide_border=true" />
 </p>
 
 ---
 
-## 🤝 Connect with me
+## 🤝 Connect with Me
 
-- **LinkedIn:** [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
-- **Email:** bhawanasingh8318@gmail.com
-- **Portfolio:** [yourportfolio.com](https://yourportfolio.com)
+- 📧 **Email:** bhawanasingh8318@gmail.com
+- 💼 **LinkedIn:** *(https://www.linkedin.com/in/bhawana-singh-80826a32a?utm_source=share_via&utm_content=profile&utm_medium=member_ios)*
 
-⚡ *Fun fact: I write code to solve problems, and then I write more code to fix the problems my code created.*
+---
+
+> *"Always learning. Always building. Always improving."* 🚀
