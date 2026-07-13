@@ -48,13 +48,17 @@ A data analysis project that collects, cleans, and analyzes book data to uncover
 
 
 ---
-
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Bhawana83&show_icons=true&theme=github_dark&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Bhawana83&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" />
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bhawana83&layout=compact&theme=github_dark&hide_border=true" />
 </p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Bhawana83&theme=github-dark-blue&hide_border=true" />
+</p>
+
 
 ---
 
