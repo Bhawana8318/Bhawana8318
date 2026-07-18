@@ -121,10 +121,20 @@ for(int i = 1; i <= items; i++) {
 
 
 ⛰️ Standing at the Peak
-Mastering DP feels like the ultimate milestone because it forces you to conquer the core trade-off of computer science: balancing Time and Memory. You have to understand recursion, arrays, and even how the computer manages its tiny Stack memory versus the massive RAM warehouse to keep your code from crashing.
+Mastering DP feels like the ultimate milestone because it forces you to conquer
+ the core trade-off of computer science: balancing Time and Memory.
+ You have to understand recursion, arrays, and even how the computer manages its
+ tiny Stack memory versus the massive RAM warehouse to
+ keep your code from crashing.
 
-Looking back at my last year of coding, I’m proud of how far the logic has evolved. I went from writing uncontrolled code that triggered TLEs to building fast, deterministic state machines.
+Looking back at my last year of coding, I’m proud of how far the logic has evolved.
+ I went from writing uncontrolled code that triggered
+ TLEs to building fast, deterministic state machines.
 
-If you are currently in the thick of the placement grind and feel like you're going in circles—hang in there. Look closer at your code. You aren't where you started; you're just leveling up to beat the final boss.
+If you are currently in the thick of the placement grind and
+ feel like you're going in circles—hang in there.
+Look closer at your code.
+You aren't where you started; you're just leveling up to beat
+the final boss.
 
 Let's keep grinding! 🚀
